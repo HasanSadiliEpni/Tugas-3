@@ -44,7 +44,7 @@ class _PostnewsState extends State<Postnews> {
   return MaterialApp(
     title: 'Create Data Example',
     theme: ThemeData(
-      colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+      colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightBlue),
     ),
     home: Scaffold(
       appBar: AppBar(
